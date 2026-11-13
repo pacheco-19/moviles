@@ -1,0 +1,2 @@
+spring.datasource.username=moviles_app
+spring.datasource.password=moviles_app_pwd
